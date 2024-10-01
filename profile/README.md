@@ -1,7 +1,3 @@
-Here’s a draft for the `README.md` for your group, **The Git Writers**:
-
----
-
 # The Git Writers
 
 **Welcome to The Git Writers!**
