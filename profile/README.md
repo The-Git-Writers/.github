@@ -10,16 +10,16 @@ The Git Writers is all about turning abstract concepts into real, tangible outco
 
 ## How We Work
 
-- **Open Collaboration**: All ideas are welcome. This space is designed to be open to contributions from everyone.
+- **Private Collaboration**: Our work is kept private to protect our ideas. Only trusted members have access to the repositories.
 - **Respect and Support**: We value each other's creativity and foster a respectful environment where everyone feels comfortable sharing.
 - **Iterate and Improve**: Our goal is not to be perfect but to grow. Every contribution, no matter how small, helps in refining ideas.
 
 ## Contributing
 
-1. **Private repository**: Repositories are private and only shown to the owners. 
-2. **Create issues**: Create an issue about your repo in order to receive advice.
-3. **Review and feedback**: Give and receive constructive feedback on contributions.
-4. **Merge**: Once a contribution has been reviewed, it can be merged into the main project.
+1. **Branch off**: Start by creating a new branch to work on an idea or improve.
+2. **Push your changes**: Push them to the private repo once your changes are ready.
+3. **Collaborative review**: Team members will review and give feedback on changes.
+4. **Merge**: Contributions can be merged into the main project once approved.
 
 ## Communication
 
