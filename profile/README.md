@@ -16,8 +16,8 @@ The Git Writers is all about turning abstract concepts into real, tangible outco
 
 ## Contributing
 
-1. **Fork the repository**: If you want to work on an idea or make improvements.
-2. **Submit a pull request**: Once your ideas or changes are ready to share.
+1. **Private repository**: Repositories are private and only shown to the owners. 
+2. **Create issues**: Create an issue about your repo in order to receive advice.
 3. **Review and feedback**: Give and receive constructive feedback on contributions.
 4. **Merge**: Once a contribution has been reviewed, it can be merged into the main project.
 
